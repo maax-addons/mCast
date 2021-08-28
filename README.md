@@ -8,16 +8,11 @@ Link: https://discord.gg/TwqNCWkYUM
 ## Steam Workshop Version
 https://steamcommunity.com/sharedfiles/filedetails/?id=2584028096
 
-## Developer Knowledgebase
+## Information
 
-### Notification
-
-```javascript
-  AdvancedNotify:Notify(color, header_text , content_text)
-```
-
-### Hud PopUP
+### Information
 
 ```javascript
-  AdvancedNotify:Broadcast(color, header_text, main_text)
+  Open Command: /mcast
 ```
+
