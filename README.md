@@ -10,8 +10,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2584028096
 
 ## Information
 
-### Information
-
 ```javascript
   Open Command: /mcast
 ```
